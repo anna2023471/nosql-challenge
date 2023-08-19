@@ -12,4 +12,4 @@ In Resources folder:
 
 establishments.csv
 
-The code to set non-numeric values in RatingValue field in NoSQL_setup_starter.ipynb was simplified with help from Ian from AskBCS
+The code to set non-numeric values to Null in RatingValue field in NoSQL_setup_starter.ipynb was simplified with help from Ian from AskBCS
